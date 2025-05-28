@@ -1,5 +1,5 @@
 # atividade-vm-windows-miguel
 
 
-Nome: Miguel Gustavo
+Nome: Miguel Gustavo/
 Turma:INF2
